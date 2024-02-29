@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<IndexAD>
+  <ad vis="1">
+    <Id>1</Id>
+    <Name>首页广告</Name>
+    <Image>ImageAD/Index.swf</Image>
+    <Width>697</Width>
+    <Height>90</Height>
+    <Links>Item.aspx?Id=100</Links>
+  </ad>  
+</IndexAD>

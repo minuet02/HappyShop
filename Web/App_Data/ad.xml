@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="gb2312"?>
+<IndexAd>
+<ad>
+<Id>1</Id>
+<Name>ͼƬ1</Name>
+<Image>ImageAD/01.jpg</Image>
+<ImageLink>Item.aspx?Id=2</ImageLink>
+</ad>
+<ad>
+<Id>2</Id>
+<Name>ͼƬ2</Name>
+<Image>ImageAD/02.jpg</Image>
+<ImageLink>Item.aspx?Id=2</ImageLink>
+</ad>
+<ad>
+<Id>3</Id>
+<Name>ͼƬ3</Name>
+<Image>ImageAD/03.jpg</Image>
+<ImageLink>Item.aspx?Id=2</ImageLink>
+</ad>
+<ad>
+<Id>4</Id>
+<Name>ͼƬ4</Name>
+<Image>ImageAD/04.jpg</Image>
+<ImageLink>Item.aspx?Id=2</ImageLink>
+</ad>
+</IndexAd>
